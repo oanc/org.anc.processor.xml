@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.anc:index:1.2.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/anc/index/1.2.0-SNAPSHOT/index-1.2.0-20140928.174251-2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/anc/index/1.2.0-SNAPSHOT/index-1.2.0-20141216.182724-3.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/anc/index/1.2.0-SNAPSHOT/index-1.2.0-20140928.174251-2-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/anc/index/1.2.0-SNAPSHOT/index-1.2.0-20141216.182724-3-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/anc/index/1.2.0-SNAPSHOT/index-1.2.0-20140928.174251-2-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/anc/index/1.2.0-SNAPSHOT/index-1.2.0-20141216.182724-3-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

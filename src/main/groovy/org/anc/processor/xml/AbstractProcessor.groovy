@@ -3,7 +3,13 @@ package org.anc.processor.xml
 import org.anc.conf.AnnotationConfig
 import org.anc.index.api.Index
 import org.anc.processor.xml.i18n.Messages
-import org.anc.tool.
+import org.anc.tool.api.IProcessor
+import org.slf4j.Logger
+import org.slf4j.LoggerFactory
+import org.xces.graf.io.dom.ResourceHeader
+
+//maven include too.api
+
 
 import javax.ws.rs.GET
 import javax.ws.rs.QueryParam
@@ -26,7 +32,7 @@ class AbstractProcessor {
                             "f.slate_coref","f.vc"] as HashSet<String>
 
     /** Processor object used to convert GrAF files into the CONLL format. */
-    IProcessor processor
+    XMLProcessor processor
     ResourceHeader header
     Index index
 
